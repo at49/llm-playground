@@ -12,3 +12,7 @@ Repo to explore various LLM models using publicly available text data
 
 ### Prompt Engineering
 - Best practices from OpenAI: https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api
+
+### General LLM resources
+- Caching LLM Queries for better performance: https://thesequence.substack.com/p/guest-post-caching-llm-queries-for
+- Enhance usefuleness of LLMs: https://thesequence.substack.com/p/guest-post-how-to-enhance-the-usefulness
